@@ -1,6 +1,4 @@
 package MySpring.springbootdeveloper.dto;
-
-
 import MySpring.springbootdeveloper.domain.Article;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
